@@ -28,5 +28,3 @@ I used a cliche command line interface for navigation through the project.
 
 * Ryan Mckenna
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
