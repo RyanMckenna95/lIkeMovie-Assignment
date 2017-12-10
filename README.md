@@ -12,6 +12,14 @@ To run this project you must download or clone it. you must unzid the folder and
 * XStream
 * Gauva
 
+## Fuctions
+*Get top ten movies 
+*Search movies based on title 
+*Calculate movie recommendation for a user 
+*Log in Fancility(with admin and default users)
+*Add/Remove User/Rating/Movie 
+*Search for a User/Movie/Rating
+
 ## navigation
 
 I used a cliche command line interface for navigation through the project.
