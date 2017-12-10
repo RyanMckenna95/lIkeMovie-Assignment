@@ -75,7 +75,7 @@ public class Main implements ShellDependent
 		{
 			// TODO Auto-generated method stub
 			Main main = new Main();
-			Shell shell= ShellFactory.createConsoleShell("ama", "Welcome to Awesome Movies - ?help  for instructions", main);
+			Shell shell= ShellFactory.createConsoleShell("ama", "Welcome to Movie recommender - ?help  for instructions", main);
 			shell.commandLoop();
 		
 			main.likeMovies.store();
