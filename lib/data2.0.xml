@@ -847,7 +847,7 @@
                 <occupation>other</occupation>
                 <password>pass2</password>
                 <zipCode>94043</zipCode>
-                <role>default</role>
+                <role>admin</role>
                 <id>2</id>
                 <rating>
                   <entry>
